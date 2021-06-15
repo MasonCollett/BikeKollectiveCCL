@@ -1,9 +1,9 @@
 # BikeKollectiveCCL | CS467 - Online Capstone Project
 
 <p float="left">
-  <img src="https://github.com/MasonCollett/BikeKollectiveCCL/blob/main/assets/text/bike_list.png" width="400" />
-  <img src="https://github.com/MasonCollett/BikeKollectiveCCL/blob/main/assets/text/bike_view.png" width="400" /> 
-  <img src="https://github.com/MasonCollett/BikeKollectiveCCL/blob/main/assets/text/bike_map.png" width="400" />
+  <img src="https://github.com/MasonCollett/BikeKollectiveCCL/blob/main/assets/text/bike_list.png" width="250" />
+  <img src="https://github.com/MasonCollett/BikeKollectiveCCL/blob/main/assets/text/bike_view.png" width="250" /> 
+  <img src="https://github.com/MasonCollett/BikeKollectiveCCL/blob/main/assets/text/bike_map.png" width="250" />
 </p>
 
 ## Pre-reqs
