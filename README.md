@@ -1,5 +1,11 @@
 # BikeKollectiveCCL | CS467 - Online Capstone Project
 
+<p float="left">
+  <img src="https://github.com/MasonCollett/BikeKollectiveCCL/blob/main/assets/text/bike_list.png" width="100" />
+  <img src="https://github.com/MasonCollett/BikeKollectiveCCL/blob/main/assets/text/bike_view.png" width="100" /> 
+  <img src="https://github.com/MasonCollett/BikeKollectiveCCL/blob/main/assets/text/bike_map.png" width="100" />
+</p>
+
 ## Pre-reqs
 1. Install flutter, and set up Android emulator. See [here](https://flutter.dev/docs/get-started/install). Use relatively newer version (~2.0.0 >) of Flutter
 2. (Optional) Install VSCode. See [here](https://code.visualstudio.com/)
